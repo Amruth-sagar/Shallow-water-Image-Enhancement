@@ -1,4 +1,3 @@
-# Shallow-water-Image-Enhancement
 # Implementation of Shallow-water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition.
 
 ![](./media/method.png)
